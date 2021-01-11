@@ -1,0 +1,1 @@
+the clustering was done in one python file (q4a1.py) and the plotting was done using p1.py (another file). This was because on my system, one version of python was compatible with dill but not with matplotlib, and the other version of python was showing the opposite behaviour. Sorry for the trouble.
